@@ -1,0 +1,13 @@
+#backButton{
+	float:left;
+}
+#nextButton{
+	float:right;
+}
+#tableOfContents{
+	margin:auto;
+	max-width:21ch;
+}
+li{
+	list-style-type: none;
+}
