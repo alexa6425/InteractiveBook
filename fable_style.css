@@ -1,17 +1,8 @@
-body { 
-	background-color: #FFFFFF;
-}
-div.textContainer {
-	font-family: Georgia;
-    width: 65%;
-    margin: 0 auto 1em auto;
-    padding: 2em;
-}
-
 div.textContainer p {
 	color: #434343;
-	font-size: 18;
-	line-height: 18pt;
+	font-size: 14;
+	line-height: 14pt;
+	text-indent: 50px;
 	letter-spacing: 1px;
 	text-align: center;
 }
@@ -72,10 +63,14 @@ div.textContainer h3 {
 	color: #C19CE9;
 }
 
-#header {
+#footer {
 	text-align:center;
 	width: 75%;
 	height: 60px;
 	margin: 40px 0 0 0;
 	
+}
+
+li{
+	list-style-type: none;
 }
