@@ -35,8 +35,8 @@ function makenav(){
 	wherewasi["Hello, world!"] = "http://www.google.com";
 	navdiv.innerHTML = `
 <ul class="nav" sytle="margins:auto;">
-<li id="backButton"><a href="` + wheretonext[whereami.innerText] + `" target="_self">&lsaquo; BACK</a></li>
-<li id="nextButton"><a href="` + wherewasi[whereami.innerText] + `" target="_self">NEXT &rsaquo;</a></li>
+<li id="backButton"><a href="` + wherewasi[whereami.innerText] + `" target="_self">&lsaquo; BACK</a></li>
+<li id="nextButton"><a href="` + wheretonext[whereami.innerText] + `" target="_self">NEXT &rsaquo;</a></li>
 <li id="tableOfContents"> <a href="fable2.html">TABLE OF CONTENTS</a></li>
 </ul>
 `;
