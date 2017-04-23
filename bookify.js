@@ -31,9 +31,11 @@ function makenav(){
 	var whereami = window.location;
 	var fable_order = [
 		"http://aesopht.ml/",
+		"http://aesopht.ml/introduction.html",
 		"http://www.pitt.edu/~nds35/forward.html",
+
 		"http://aesopht.ml/contents.html",
-		
+
 		"http://www.pitt.edu/~acs162/CDM/InteractiveBook/fox.html",
 		"http://www.pitt.edu/~acs162/CDM/InteractiveBook/donkey.html",
 		"http://www.pitt.edu/~ejc58/fable2.html",
@@ -69,8 +71,9 @@ function makenav(){
 		"http://www.pitt.edu/~lcm38/Mouse.html",
 		"http://www.pitt.edu/~mas559/CDM/MovingStory/Cat_And_Dogs.html",
 		"http://www.pitt.edu/~mas559/CDM/MovingStory/Possum_and_Piano.html",
-		
+
 		"http://www.pitt.edu/~nds35/Afterword.html",
+		"http://aesopht.ml/iindex.html",
 	];
 	var wheretonext,wherewasi;
 	for(var i = 0; i < fable_order.length; i++){
