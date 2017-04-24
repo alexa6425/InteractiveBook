@@ -38,7 +38,7 @@ function makenav(){
 
 		"http://www.pitt.edu/~acs162/CDM/InteractiveBook/fox.html",
 		"http://www.pitt.edu/~acs162/CDM/InteractiveBook/donkey.html",
-		"http://www.pitt.edu/~ejc58/fable2.html",
+		"http://www.pitt.edu/~jsk60/EmilyFable2.html",
 		"http://www.pitt.edu/~ejc58/index.html",
 		"http://www.pitt.edu/~brp76/fable1.html",
 		"http://www.pitt.edu/~brp76/fable2.html",
